@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25/11/2026
+## Reference Number:26018380
+## Name:M.Hema
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,26 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1. Develop a digital platform to connect farmers directly with consumers and bulk buyers.
+2. Provide transparent pricing, online payments, and reliable delivery services.
+3. Use AI technology to predict demand and reduce middlemen.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1. Build a user-friendly website using HTML, CSS, JavaScript, and Python.
+2. Use a database to store farmer details, product information, and orders.
+3. Integrate AI and GPS technology for demand forecasting and route optimization.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1. The platform can be developed using affordable and easily available technologies.
+2. Farmers can access the platform through smartphones and the internet.
+3. The system can be expanded to support more farmers, buyers, and locations.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1. Farmers can earn higher profits by selling products directly.
+2. Consumers can purchase fresh products at affordable prices.
+3. Reduces food wastage, transportation costs, and supply chain inefficiencies.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. Ministry of Agriculture and Farmers Welfare – Government of India.
+2. e-NAM (National Agriculture Market) – https://enam.gov.in
+3. Ministry of Consumer Affairs, Food and Public Distribution – Government of India.
